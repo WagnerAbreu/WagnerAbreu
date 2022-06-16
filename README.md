@@ -1,7 +1,7 @@
 
 ### Olá! Sou Wagner Abreu 👋
 
-💻 Desenvolvedor Pleno - Home Office 🏡 Brasileiro 🌎 Paraiba ✈️ Brasil
+💻 Desenvolvedor Senior - Home Office 🏡 Brasileiro 🌎 Paraiba ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
@@ -9,4 +9,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-wagner.abreucz%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagner.abreucz@gmail.com)](mailto:wagner.abreucz@gmail.com)
 
 💻  Graduado em Análise e Desenvolvimento de Sistemas<br>
+💻  Pos Graduado em Arquiterura de Software Distribuído<br>
 </samp>
